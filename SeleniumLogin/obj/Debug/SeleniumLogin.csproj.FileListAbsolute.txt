@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\SeleniumLogin\SeleniumLogin\bin\Debug\SeleniumLogin.exe.config
+C:\Users\admin\source\repos\SeleniumLogin\SeleniumLogin\bin\Debug\SeleniumLogin.exe
+C:\Users\admin\source\repos\SeleniumLogin\SeleniumLogin\bin\Debug\SeleniumLogin.pdb
+C:\Users\admin\source\repos\SeleniumLogin\SeleniumLogin\bin\Debug\WebDriver.dll
+C:\Users\admin\source\repos\SeleniumLogin\SeleniumLogin\bin\Debug\WebDriver.Support.dll
+C:\Users\admin\source\repos\SeleniumLogin\SeleniumLogin\bin\Debug\WebDriver.xml
+C:\Users\admin\source\repos\SeleniumLogin\SeleniumLogin\bin\Debug\WebDriver.Support.xml
+C:\Users\admin\source\repos\SeleniumLogin\SeleniumLogin\obj\Debug\SeleniumLogin.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\SeleniumLogin\SeleniumLogin\obj\Debug\SeleniumLogin.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SeleniumLogin\SeleniumLogin\obj\Debug\SeleniumLogin.csproj.CopyComplete
+C:\Users\admin\source\repos\SeleniumLogin\SeleniumLogin\obj\Debug\SeleniumLogin.exe
+C:\Users\admin\source\repos\SeleniumLogin\SeleniumLogin\obj\Debug\SeleniumLogin.pdb
